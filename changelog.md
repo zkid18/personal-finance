@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - [Excel exporter] Fixed the problem of adding new categories
 
 ### Ideas
-- [Excel exproter] Save in .xls and convert to spreedsheets. 
+- [Excel exproter] Save in .xls and convert to spreedsheets https://pypi.org/project/gspread-pandas/ 
 - [Visualization] Use Graphana
 
 ## [0.1] - 2019-08-04
